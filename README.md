@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hola, soy Juan Diego Gómez 👋
 
-<!--
-**Juangomezaz/Juangomezaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Ingeniería de Sistemas · Datos & BI · Medellín, Colombia**
 
-Here are some ideas to get you started:
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mí
+
+Soy estudiante de Ingeniería de Sistemas en la **Universidad Católica Luis Amigó (FUNLAM)**, con 107 de 170 créditos aprobados. Me apasiona transformar datos en decisiones — me especializo en análisis de datos, visualización con Power BI y construcción de pipelines ETL. Actualmente buscando oportunidades de práctica profesional en el área de datos y business intelligence.
+
+---
+
+## 🗂️ Proyectos destacados
+
+### 📊 Dashboard La Liga — Análisis de sponsorship
+Dashboard interactivo en Power BI sobre 10 temporadas de La Liga. Pipeline ETL completo, métricas DAX y recomendación de Sevilla FC como objetivo de sponsorship basado en ROI y consistencia histórica.
+
+`Power BI` `DAX` `ETL`
+
+---
+
+### 🍽️ Dashboard Restaurante Juaco — Revenue analysis
+Análisis multidimensional de ventas en restaurante. Identificación de caída en ventas de vino como driver principal del declive de ingresos. Dashboard multi-página con segmentación por categoría.
+
+`Power BI` `DAX` `Data Analysis`
+
+---
+
+### 🤖 Módulo educativo — Uso ético de IA
+Documento académico completo dirigido a estudiantes de primer semestre. Incluye análisis DOFA, PESTEL y Lean Canvas aplicados a la adopción responsable de herramientas de inteligencia artificial.
+
+`Research` `Academic writing`
+
+---
+
+## 🎓 Formación
+
+**Ingeniería de Sistemas** · Universidad Católica Luis Amigó  
+2026 · Presencial · Medellín, Antioquia · Programa con acreditación de alta calidad MEN
+
+**Certificaciones SENA**  
+- Ciencias Básicas en Matemáticas y Física · 40h · 2018
+
+---
+
+## 🛠️ Stack & herramientas
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+---
+
+📍 Medellín, Colombia · Disponible para prácticas profesionales 2026
