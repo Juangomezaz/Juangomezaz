@@ -12,7 +12,7 @@
 
 ## Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas en la **Universidad Católica Luis Amigó (FUNLAM)**, con 107 de 170 créditos aprobados. Me apasiona transformar datos en decisiones — me especializo en análisis de datos, visualización con Power BI y construcción de pipelines ETL. Actualmente buscando oportunidades de práctica profesional en el área de datos y business intelligence.
+Soy estudiante de Ingeniería de Sistemas en la **Universidad Católica Luis Amigó (FUNLAM)**, con 107 de 170 créditos aprobados. Me apasiona construir soluciones tecnológicas — desde desarrollo web y aplicaciones hasta análisis de datos y visualización con Power BI. Tengo experiencia práctica en Python, SQL y desarrollo frontend. Actualmente buscando oportunidades de práctica profesional donde pueda aportar y seguir creciendo.
 
 ---
 
