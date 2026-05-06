@@ -59,4 +59,4 @@ Documento académico completo dirigido a estudiantes de primer semestre. Incluye
 
 ---
 
-📍 Medellín, Colombia · Disponible para prácticas profesionales 2026
+📍 Medellín, Colombia · Disponible para prácticas profesionales 2027
